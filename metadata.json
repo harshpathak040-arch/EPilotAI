@@ -1,0 +1,6 @@
+{
+  "name": "EPilot AI — AI-Powered Learning Platform",
+  "description": "Adaptive educational platform with Socratic AI tutoring, PDF text extraction, automated quiz generation, personalized study scheduling, and role-guarded admin portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
